@@ -1,15 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Add from './add';
 
 function App() {
   return (
     <div className="App">
-      <h1>
-        Hellooooo
-        helooooodalskdfjasd 
-        first branch 
-      </h1>
-          <h2>oooo</h2>
+     <Add/>
     </div>
   );
 }
