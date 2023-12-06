@@ -5,7 +5,7 @@ import Add from './add';
 function App() {
   return (
     <div className="App">
-     <Add/>
+    <h1>opppppppppppppp</h1>
     </div>
   );
 }
