@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Hellooooo...........................
+        Hellooooo
         helooooodalskdfjasd 
         first branch 
       </h1>
